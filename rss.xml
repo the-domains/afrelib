@@ -2,14 +2,23 @@
     <channel>
         <title><![CDATA[Afrelib]]></title>
         <description><![CDATA[Afrelib]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/afrelib/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 15:50:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 15:51:50 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/afrelib/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introducing the Afrelib Mobile eLearning Toolkit]]></title>
+            <description><![CDATA[<article><h1>Introducing the Afrelib Mobile eLearning Toolkit</h1><p>Introducing The Afrelib Mobile 
+eLearning Toolkit
+</p></article>]]></description>
+            <link>https://thegrid.ai/afrelib/introducing-the-afrelib-mobile-elearning-toolkit/index.html</link>
+            <guid isPermaLink="false">d705efd6-7431-4028-a244-14f68bbd80a2</guid>
+            <pubDate>Mon, 16 Nov 2015 15:50:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afrelib Mobile eLearning Toolkit Paper]]></title>
             <description><![CDATA[<article><h1>Afrelib Mobile eLearning Toolkit Paper</h1><p>Afrelib Mobile eLearning Toolkit - Concept Note </p></article>]]></description>
-            <link>undefinedafrelib-mobile-elearning-toolkit-paper/index.html</link>
+            <link>https://thegrid.ai/afrelib/afrelib-mobile-elearning-toolkit-paper/index.html</link>
             <guid isPermaLink="false">f75d0dda-1b5f-4ade-a5d6-59ab18a11b2e</guid>
             <pubDate>Mon, 16 Nov 2015 15:50:57 GMT</pubDate>
         </item>
