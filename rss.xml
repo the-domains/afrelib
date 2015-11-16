@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Creating 21st Century Teaching and Classrooms]]></title>
         <description><![CDATA[Creating 21st Century Teaching and Classrooms]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/afrelib/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 17:09:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 17:53:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/afrelib/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0a243bff-d68e-45f9-ac3f-9a39ee1c780b.jpg">]]></description>
+            <link>https://thegrid.ai/afrelib/f0dd8ba2-6367-4067-b626-525abf6436b5/index.html</link>
+            <guid isPermaLink="false">f0dd8ba2-6367-4067-b626-525abf6436b5</guid>
+            <pubDate>Mon, 16 Nov 2015 17:53:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Afrelib CiC]]></title>
             <description><![CDATA[<article><h1>Afrelib CiC</h1><p>Creating 21st Century Teaching & Classrooms in Africa</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9bd6a69a-7a68-439e-9cc9-1d5b0f920bf6.jpg"></article>]]></description>
-            <link>undefinedafrelib-cic/index.html</link>
+            <link>https://thegrid.ai/afrelib/afrelib-cic/index.html</link>
             <guid isPermaLink="false">b359c202-b325-41d4-9198-146fed368ee9</guid>
             <pubDate>Mon, 16 Nov 2015 17:09:48 GMT</pubDate>
         </item>
